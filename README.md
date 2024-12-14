@@ -26,3 +26,10 @@ Il permet de gérer des relations entre auteurs et leurs livres, en mettant en �
    
 ## Assurez-vous que PHP est installé sur votre machine : 
 php --version
+
+
+Assurez-vous que PHP est installé sur votre machine en exécutant la commande suivante dans votre terminal :
+
+```bash
+php --version
+
