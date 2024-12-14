@@ -28,8 +28,6 @@ Assurez-vous que PHP est installé sur votre machine en exécutant la commande s
 ```bash
 php --version
 
-Copier le code
-php --version
 
 
 
