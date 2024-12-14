@@ -25,9 +25,10 @@ Il permet de gérer des relations entre auteurs et leurs livres, en mettant en �
    cd gestion-auteurs-livres
 
 Assurez-vous que PHP est installé sur votre machine en exécutant la commande suivante :
+
+bash
+Copier le code
 php --version
-Exécutez le fichier principal pour tester le projet :
-php index.php
 
 
 
