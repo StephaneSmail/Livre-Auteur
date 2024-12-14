@@ -24,7 +24,8 @@ Il permet de gérer des relations entre auteurs et leurs livres, en mettant en �
    git clone https://github.com/votre-utilisateur/gestion-auteurs-livres.git
    cd gestion-auteurs-livres
    
-## Assurez-vous que PHP est installé sur votre machine : 
+Assurez-vous que PHP est installé sur votre machine : 
+
 php --version
 
 Exécutez le fichier principal pour tester le projet :
