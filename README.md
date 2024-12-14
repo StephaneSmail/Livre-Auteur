@@ -23,10 +23,11 @@ Il permet de gérer des relations entre auteurs et leurs livres, en mettant en �
    ```bash
    git clone https://github.com/votre-utilisateur/gestion-auteurs-livres.git
    cd gestion-auteurs-livres
-
 Assurez-vous que PHP est installé sur votre machine en exécutant la commande suivante :
 
-bash
+```bash
+php --version
+
 Copier le code
 php --version
 
