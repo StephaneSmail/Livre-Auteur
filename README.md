@@ -30,3 +30,8 @@ Assurez-vous que PHP est installé sur votre machine en exécutant la commande s
 ```bash
 php --version
 
+Exécutez le fichier principal pour tester le projet :
+
+php index.php
+
+
